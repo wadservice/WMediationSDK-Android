@@ -2,6 +2,8 @@
 # WAD Mediation Android SDK
 WAD Mediation SDK를 찾아주셔서 감사합니다.
 
+![](https://github.com/wadservice/WMediationSDK-Android/raw/master/res/mediation.png)
+
 다음사이트에서 회원을 가입하시고 시작하실수 있습니다. 
 [http://admin.wadservice.com](http://admin.wadservice.com)
 
