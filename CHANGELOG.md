@@ -1,9 +1,15 @@
 # Change log
 
-### adapter_kr_all: 1.0.15 (2020. 4. 30)
+### adapter_kr_all: 1.0.19 (2021. 6. 3)
+
+- Update AdFit SDK 3.8.5 
+- Update Cauly SDK 3.5.17
+- Update AdPie SDK 1.9.0
+
+### adapter_kr_all: 1.0.15 (2021. 4. 30)
 
 - WAD 및 기타 광고 SDK Update
 
-### 1.0.3 (2020. 2. 18)
+### 1.0.3 (2021. 2. 18)
 
 - Initial release
