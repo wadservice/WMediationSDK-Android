@@ -1,5 +1,9 @@
 # Change log
 
+### adapter_kr_all: 1.0.20 (2021. 6. 10)
+
+- Update ExelBid SDK 1.7.0
+
 ### adapter_kr_all: 1.0.19 (2021. 6. 3)
 
 - Update AdFit SDK 3.8.5 
