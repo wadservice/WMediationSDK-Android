@@ -1,5 +1,10 @@
 # Change log
 
+### adapter_kr_all: 1.0.21 (2021. 6. 17)
+
+- Update AdPie SDK 1.9.1
+- Update Cauly SDK 3.5.18
+
 ### adapter_kr_all: 1.0.20 (2021. 6. 10)
 
 - Update ExelBid SDK 1.7.0
