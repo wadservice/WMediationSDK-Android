@@ -8,10 +8,10 @@ WAD Mediation SDK를 찾아주셔서 감사합니다.
 ## WMediation SDK 하나만 정합하면 다음의 ADNetwork 추가정합없이 광고를 송출할수 있습니다. 
 - [WAD](http://admin.wadservice.com)
 - [Adfit](https://adfit.kkao.com)
-- [Admob](https://admob.google.com)
-- [Mezzomedia](https://publisher.man-plus.com/)
+- [AdMob](https://admob.google.com)
+- [MezzoMedia](https://publisher.man-plus.com/)
 - [Exelbid (Motiv, 구 온누리)](http://www.exelbid.com/)
-- [Adpie](https://www.adpies.com)
+- [ADPIE](https://www.adpies.com)
 - [Cauly](https://www.cauly.net/index.html)
 ## 모든 광고 Slot ID, App ID등의 설정을 서버에서 한번에 설정할수 있습니다.
 
