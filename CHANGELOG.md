@@ -1,5 +1,9 @@
 # Change log
 
+### adapter_kr_all: 1.0.23 (2021. 6. 24)
+
+- Update AdMob SDK 20.2.0
+
 ### adapter_kr_all: 1.0.21 (2021. 6. 17)
 
 - Update AdPie SDK 1.9.1
