@@ -1,5 +1,10 @@
 # Change log
 
+### adapter_kr_all: 1.0.26 (2021. 8. 2)
+
+- Update Cauly SDK 3.5.20
+
+
 ### adapter_kr_all: 1.0.23 (2021. 6. 24)
 
 - Update AdMob SDK 20.2.0
