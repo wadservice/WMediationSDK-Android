@@ -1,8 +1,8 @@
 # Change log
 
-### adapter_kr_all: 1.0.30 (2021. 8. 14)
+### adapter_kr_all: 1.0.31 (2021. 8. 20)
 
-- Update WAD SDK 1.0.22
+- Update WAD SDK 1.0.23
 
 ### adapter_kr_all: 1.0.26 (2021. 8. 2)
 
