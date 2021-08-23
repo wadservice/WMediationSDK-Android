@@ -1,5 +1,9 @@
 # Change log
 
+### adapter_kr_all: 1.0.30 (2021. 8. 14)
+
+- Update WAD SDK 1.0.22
+
 ### adapter_kr_all: 1.0.26 (2021. 8. 2)
 
 - Update Cauly SDK 3.5.20
