@@ -1,5 +1,9 @@
 # Change log
 
+### adapter_kr_all: 1.0.42 (2022. 1. 3)
+
+- 전면광고 이벤트 전달 오류 수정
+
 ### adapter_kr_all: 1.0.31 (2021. 8. 20)
 
 - Update WAD SDK 1.0.23
