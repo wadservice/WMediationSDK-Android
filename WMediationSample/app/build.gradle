@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    compileSdkVersion 29
+    compileSdkVersion 31
     buildToolsVersion "30.0.2"
 
     defaultConfig {
         applicationId "com.wafour.ads.mediation.wmediationsample"
         minSdkVersion 19
-        targetSdkVersion 29
+        targetSdkVersion 31
         versionCode 1
         versionName "1.0"
         multiDexEnabled true
@@ -36,7 +36,7 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
     implementation 'androidx.multidex:multidex:2.0.1'
 
-    implementation 'com.wafour.ads.mediation:adapter_kr_all:1.0.42'
+    implementation 'com.wafour.ads.mediation:adapter_kr_all:1.0.46'
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
