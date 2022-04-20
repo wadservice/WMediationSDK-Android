@@ -1,5 +1,9 @@
 # Change log
 
+### adapter_kr_all: 1.0.52 (2022. 4. 20)
+
+- WAD mediation adapter Update
+
 ### adapter_kr_all: 1.0.50 (2022. 4. 7)
 
 - 몇몇 mediation adapter구현 안드로이드 12관련 추가대응
