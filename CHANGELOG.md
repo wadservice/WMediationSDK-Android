@@ -1,4 +1,7 @@
 # Change log
+### adapter_kr_all: 1.0.52 (2023. 1. 30)
+
+- WAD 및 기타 광고 SDK Update
 
 ### adapter_kr_all: 1.0.52 (2022. 4. 20)
 
